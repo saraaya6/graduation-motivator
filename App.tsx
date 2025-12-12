@@ -108,7 +108,7 @@ const App: React.FC = () => {
       
       {/* Footer */}
       <footer className="mt-12 text-slate-400 text-sm font-medium z-10">
-        تم التطوير بواسطة مساعدك الذكي 🎓
+        كانت معكم سارون 🎓
       </footer>
     </div>
   );
