@@ -1,5 +1,5 @@
 
-graduation-motivator
+##Graduation Motivator
 
 This contains everything you need to run your app locally.
 
